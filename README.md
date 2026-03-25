@@ -2,8 +2,6 @@
 
 A practical, developer-friendly guide to understanding and using **HTML Helpers** in **ASP.NET MVC**.
 
-This README is inspired by the article **"Complete Guide to HTML Helpers in ASP.NET MVC"** published on C# Corner and restructures the topic in a GitHub-friendly format for quick learning and reference.
-
 ---
 
 ## Table of Contents
